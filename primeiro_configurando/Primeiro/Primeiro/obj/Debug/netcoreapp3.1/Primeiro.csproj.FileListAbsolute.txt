@@ -1,0 +1,13 @@
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Workspace\desafio-git\primeiro_configurando\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

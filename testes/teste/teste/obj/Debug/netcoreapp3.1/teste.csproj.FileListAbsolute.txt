@@ -1,0 +1,12 @@
+C:\Workspace\desafio-git\testes\teste\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Workspace\desafio-git\testes\teste\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Workspace\desafio-git\testes\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Workspace\desafio-git\testes\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Workspace\desafio-git\testes\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Workspace\desafio-git\testes\teste\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Workspace\desafio-git\testes\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Workspace\desafio-git\testes\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Workspace\desafio-git\testes\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Workspace\desafio-git\testes\teste\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Workspace\desafio-git\testes\teste\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Workspace\desafio-git\testes\teste\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache
